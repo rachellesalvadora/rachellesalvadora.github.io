@@ -71,7 +71,7 @@ header {
 header h1 {
   font-family: 'Chivo', 'Helvetica Neue', Helvetica, Arial, serif; font-weight: 900;
   letter-spacing: -1px;
-  font-size: 48px;
+  font-size: 46px;
   color: #303030;
   line-height: 1.2;
 }
@@ -100,6 +100,10 @@ header h2 {
 
 #downloads {
   margin-bottom: 40px;
+}
+
+a.button:hover {
+color: rgb(213, 0, 13);
 }
 
 a.button {
@@ -255,8 +259,8 @@ h3 {
   color: #d5000d;
   font-size: 18px;
   font-weight: bold;
-  margin-bottom: 8px;
-} 
+  margin-top: 30px;
+}
  
 h4 {
   font-size: 16px;
