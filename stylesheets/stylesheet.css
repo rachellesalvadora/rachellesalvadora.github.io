@@ -335,7 +335,11 @@ footer a:hover {
 
 .clearfix {display: inline-block;}
 * html .clearfix {height: 1%;}
-.clearfix {display: block;}
+.clearfix {
+display: block;
+width: 206px;
+float: left;
+}
 
 /* #Media Queries
 ================================================== */
